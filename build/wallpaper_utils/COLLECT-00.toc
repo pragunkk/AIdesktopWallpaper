@@ -1,0 +1,117 @@
+([('wallpaper_utils.exe',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\build\\wallpaper_utils\\wallpaper_utils.exe',
+   'EXECUTABLE'),
+  ('python313.dll', 'C:\\Python313\\python313.dll', 'BINARY'),
+  ('_multiprocessing.pyd',
+   'C:\\Python313\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\Python313\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python313\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python313\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python313\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python313\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('select.pyd', 'C:\\Python313\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python313\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python313\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Python313\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\Python313\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\Python313\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\Python313\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_wmi.pyd', 'C:\\Python313\\DLLs\\_wmi.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python313\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_webp.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_avif.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd', 'C:\\Python313\\DLLs\\_elementtree.pyd', 'EXTENSION'),
+  ('PIL\\_imaging.cp313-win_amd64.pyd',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\Python313\\VCRUNTIME140.dll', 'BINARY'),
+  ('libssl-3.dll', 'C:\\Python313\\DLLs\\libssl-3.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'C:\\Python313\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('libffi-8.dll', 'C:\\Python313\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Python313\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('icon.ico',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\icon.ico',
+   'DATA'),
+  ('prompts.json',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\prompts.json',
+   'DATA'),
+  ('settings.json',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\settings.json',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\pragu\\OneDrive - '
+   'iiit-b\\AIdesktopWallpaperApp-master\\AIdesktopWallpaperApp-master\\build\\wallpaper_utils\\base_library.zip',
+   'DATA')],)
