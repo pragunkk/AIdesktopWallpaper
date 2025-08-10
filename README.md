@@ -74,9 +74,14 @@ This app is built to run very lightly in the background. Hence it consumes very 
 
 ## Screenshots
 
-![alt text](./screenshots/SampleImage1.jpg)
-![alt text](./screenshots/SampleImage2.jpg)
-![alt text](./screenshots/SampleImage3.jpg)
-![alt text](./screenshots/SampleImage4.jpg)
-![alt text](./screenshots/SampleImage5.jpg)
-![alt text](./screenshots/SampleImage6.jpg)
+![Sample Image](./screenshots/SampleImage1.jpg)
+![Sample Image](./screenshots/SampleImage3.jpg)
+![Sample Image](./screenshots/SampleImage4.jpg)
+![Sample Image](./screenshots/SampleImage2.jpg)
+![Sample Image](./screenshots/SampleImage5.jpg)
+![Sample Image](./screenshots/SampleImage6.jpg)
+
+## Demo
+
+![Demo Video](./screenshots/AiDesktopWallpaperDemoFinal.mp4)
+
